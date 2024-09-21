@@ -65,3 +65,17 @@ a{
     color: #f1bbbb;
 
 }
+.container{
+  display: flex;
+  justify-content: flex-start; 
+  gap: 10px; 
+}
+
+footer p {
+  background: #f9ded3;
+    color: #a06362;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
